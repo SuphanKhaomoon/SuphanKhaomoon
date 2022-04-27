@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About Me
+### ⚡ My Name is Suphan Khaomoon
+💬 #### You can call me Jack. I am obsessed with endless learning about coding and always thought that age was not a barrier to my learning. 
+😄😄 Nice to meet you and ready to receive feedback on your own development. 😄😄
+
+
+
 <!--
 **SuphanKhaomoon/SuphanKhaomoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
