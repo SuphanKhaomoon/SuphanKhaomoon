@@ -3,13 +3,13 @@
 ### <div align="center">I'm Suphan Khaomoon 👨‍💻 You can call me Jack. 🚀</div>  
   
 
-- 🔭 I’m obsessed with endless learning about coding and always thought that age was not a barrier to my learning. 
+ 🔭 I’m obsessed with endless learning about coding and always thought that age was not a barrier to my learning. 
   
 
-- 🌱 I’m currently learning full-stack web development.  
+ 🌱 I’m currently learning full-stack web development.  
   
 
-- ⚡ Fun fact: I usually Ctrl+C and Ctrol+V.  
+ ⚡ Fun fact: I usually Ctrl+C and Ctrl+V.  
   
 
 <br/>  
